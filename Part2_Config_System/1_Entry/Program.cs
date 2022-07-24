@@ -10,7 +10,7 @@ namespace _1_Entry
             ServiceCollection services = new ServiceCollection();
 
             ConfigurationBuilder configBuilder = new ConfigurationBuilder();
-            configBuilder.Add(new FxConfigSource() { Path=@"E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\web.config.xml" });
+            configBuilder.Add(new FxConfigSource() { Path=@"E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\web.config" });
 
             IConfigurationRoot configRoot = configBuilder.Build();
 
