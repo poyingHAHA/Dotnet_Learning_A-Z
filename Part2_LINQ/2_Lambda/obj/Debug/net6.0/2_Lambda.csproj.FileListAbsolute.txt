@@ -1,0 +1,15 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\2_Lambda.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\2_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\2_Lambda.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\2_Lambda.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\2_Lambda.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\bin\Debug\net6.0\2_Lambda.exe
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\bin\Debug\net6.0\2_Lambda.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\bin\Debug\net6.0\2_Lambda.runtimeconfig.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\bin\Debug\net6.0\2_Lambda.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\bin\Debug\net6.0\2_Lambda.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\2_Lambda.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\refint\2_Lambda.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\2_Lambda.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\2_Lambda.genruntimeconfig.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\2_Lambda\obj\Debug\net6.0\ref\2_Lambda.dll

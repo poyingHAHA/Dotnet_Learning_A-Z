@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fgob5lA11K96QCaHnRmGD/dVofhS4YF47KU8c2GufGbo8vrljCoTtlVpSKZEzuNTgXXtW8pU/SaBTysdv0lCzA==",
+  "success": true,
+  "projectFilePath": "E:\\Dotnet_a-z\\Dotnet_learning_A-Z\\2_async_await_threadId\\2_async_await_threadId.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\88698\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

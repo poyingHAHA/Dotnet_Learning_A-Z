@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tz4UL0JJF2rBEsyzkk10XQLr1jVOpa0RYieOzUHR6GkHrBNsW9LCSZC+yc5YEygMclEmh8s/olOFRIG7uGD8Hg==",
+  "success": true,
+  "projectFilePath": "E:\\Dotnet_a-z\\Dotnet_learning_A-Z\\Part2_DI_Integration_Case\\ConfigServices\\ConfigServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\88698\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

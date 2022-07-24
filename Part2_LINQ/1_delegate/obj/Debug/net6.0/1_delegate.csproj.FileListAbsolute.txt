@@ -1,0 +1,15 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\bin\Debug\net6.0\1_delegate.exe
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\bin\Debug\net6.0\1_delegate.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\bin\Debug\net6.0\1_delegate.runtimeconfig.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\bin\Debug\net6.0\1_delegate.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\bin\Debug\net6.0\1_delegate.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\1_delegate.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\1_delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\1_delegate.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\1_delegate.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\1_delegate.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\1_delegate.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\refint\1_delegate.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\1_delegate.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\1_delegate.genruntimeconfig.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\1_delegate\obj\Debug\net6.0\ref\1_delegate.dll

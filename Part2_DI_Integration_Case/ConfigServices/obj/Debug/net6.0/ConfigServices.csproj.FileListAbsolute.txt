@@ -1,0 +1,12 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\bin\Debug\net6.0\ConfigServices.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\bin\Debug\net6.0\ConfigServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\bin\Debug\net6.0\ConfigServices.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\obj\Debug\net6.0\ConfigServices.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\obj\Debug\net6.0\ConfigServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\obj\Debug\net6.0\ConfigServices.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\obj\Debug\net6.0\ConfigServices.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\obj\Debug\net6.0\ConfigServices.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\obj\Debug\net6.0\ConfigServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\obj\Debug\net6.0\refint\ConfigServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\obj\Debug\net6.0\ConfigServices.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\ConfigServices\obj\Debug\net6.0\ref\ConfigServices.dll

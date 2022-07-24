@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fXjl6HbPqtL3CXn+iz4sdQc0jv2LtAjodWFeZ4u4BKZZA/k4kL76fDwjNTboP+xL3CWNFLZ561VrM6I9YN4jXg==",
+  "success": true,
+  "projectFilePath": "E:\\Dotnet_a-z\\Dotnet_learning_A-Z\\Part2_Dependency_Injection\\3_Dependency_Injection\\3_Dependency_Injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\88698\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

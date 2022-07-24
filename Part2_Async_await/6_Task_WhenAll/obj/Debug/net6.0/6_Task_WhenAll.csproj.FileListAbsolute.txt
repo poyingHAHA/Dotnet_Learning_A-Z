@@ -1,0 +1,15 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\6_Task_WhenAll.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\6_Task_WhenAll.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\6_Task_WhenAll.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\6_Task_WhenAll.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\6_Task_WhenAll.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\bin\Debug\net6.0\6_Task_WhenAll.exe
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\bin\Debug\net6.0\6_Task_WhenAll.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\bin\Debug\net6.0\6_Task_WhenAll.runtimeconfig.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\bin\Debug\net6.0\6_Task_WhenAll.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\bin\Debug\net6.0\6_Task_WhenAll.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\6_Task_WhenAll.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\refint\6_Task_WhenAll.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\6_Task_WhenAll.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\6_Task_WhenAll.genruntimeconfig.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\6_Task_WhenAll\obj\Debug\net6.0\ref\6_Task_WhenAll.dll

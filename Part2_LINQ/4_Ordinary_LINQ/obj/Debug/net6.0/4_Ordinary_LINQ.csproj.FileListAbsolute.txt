@@ -1,0 +1,15 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\bin\Debug\net6.0\4_Ordinary_LINQ.exe
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\bin\Debug\net6.0\4_Ordinary_LINQ.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\bin\Debug\net6.0\4_Ordinary_LINQ.runtimeconfig.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\bin\Debug\net6.0\4_Ordinary_LINQ.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\bin\Debug\net6.0\4_Ordinary_LINQ.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\4_Ordinary_LINQ.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\4_Ordinary_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\4_Ordinary_LINQ.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\4_Ordinary_LINQ.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\4_Ordinary_LINQ.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\4_Ordinary_LINQ.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\refint\4_Ordinary_LINQ.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\4_Ordinary_LINQ.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\4_Ordinary_LINQ.genruntimeconfig.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_LINQ\4_Ordinary_LINQ\obj\Debug\net6.0\ref\4_Ordinary_LINQ.dll

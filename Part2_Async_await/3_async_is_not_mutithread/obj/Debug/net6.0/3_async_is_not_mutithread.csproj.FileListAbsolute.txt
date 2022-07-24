@@ -1,0 +1,15 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\3_async_is_not_mutithread.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\3_async_is_not_mutithread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\3_async_is_not_mutithread.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\3_async_is_not_mutithread.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\3_async_is_not_mutithread.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\bin\Debug\net6.0\3_async_is_not_mutithread.exe
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\bin\Debug\net6.0\3_async_is_not_mutithread.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\bin\Debug\net6.0\3_async_is_not_mutithread.runtimeconfig.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\bin\Debug\net6.0\3_async_is_not_mutithread.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\bin\Debug\net6.0\3_async_is_not_mutithread.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\3_async_is_not_mutithread.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\refint\3_async_is_not_mutithread.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\3_async_is_not_mutithread.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\3_async_is_not_mutithread.genruntimeconfig.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\3_async_is_not_mutithread\obj\Debug\net6.0\ref\3_async_is_not_mutithread.dll

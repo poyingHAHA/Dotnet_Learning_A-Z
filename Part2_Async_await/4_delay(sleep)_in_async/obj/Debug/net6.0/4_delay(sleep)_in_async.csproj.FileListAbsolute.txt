@@ -1,0 +1,15 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\4_delay(sleep)_in_async.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\4_delay(sleep)_in_async.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\4_delay(sleep)_in_async.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\4_delay(sleep)_in_async.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\4_delay(sleep)_in_async.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\bin\Debug\net6.0\4_delay(sleep)_in_async.exe
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\bin\Debug\net6.0\4_delay(sleep)_in_async.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\bin\Debug\net6.0\4_delay(sleep)_in_async.runtimeconfig.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\bin\Debug\net6.0\4_delay(sleep)_in_async.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\bin\Debug\net6.0\4_delay(sleep)_in_async.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\4_delay(sleep)_in_async.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\refint\4_delay(sleep)_in_async.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\4_delay(sleep)_in_async.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\4_delay(sleep)_in_async.genruntimeconfig.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\4_delay(sleep)_in_async\obj\Debug\net6.0\ref\4_delay(sleep)_in_async.dll

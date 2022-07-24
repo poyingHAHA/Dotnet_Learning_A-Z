@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Dotnet_a-z\\Dotnet_learning_A-Z\\Part2_LINQ\\3_Behind_LINQ\\3_Behind_LINQ.csproj": {}
+  },
+  "projects": {
+    "E:\\Dotnet_a-z\\Dotnet_learning_A-Z\\Part2_LINQ\\3_Behind_LINQ\\3_Behind_LINQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dotnet_a-z\\Dotnet_learning_A-Z\\Part2_LINQ\\3_Behind_LINQ\\3_Behind_LINQ.csproj",
+        "projectName": "3_Behind_LINQ",
+        "projectPath": "E:\\Dotnet_a-z\\Dotnet_learning_A-Z\\Part2_LINQ\\3_Behind_LINQ\\3_Behind_LINQ.csproj",
+        "packagesPath": "C:\\Users\\88698\\.nuget\\packages\\",
+        "outputPath": "E:\\Dotnet_a-z\\Dotnet_learning_A-Z\\Part2_LINQ\\3_Behind_LINQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\88698\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

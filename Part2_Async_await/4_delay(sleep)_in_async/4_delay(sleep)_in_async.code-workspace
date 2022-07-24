@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\5_CancellationToken"
+		},
+		{
+			"path": "..\\6_Task_WhenAll"
+		},
+		{
+			"path": "..\\1_async_await"
+		},
+		{
+			"path": "..\\2_async_await_threadId"
+		},
+		{
+			"path": "..\\3_async_is_not_mutithread"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\bin\Debug\net6.0\5_CancellationToken.exe
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\bin\Debug\net6.0\5_CancellationToken.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\bin\Debug\net6.0\5_CancellationToken.runtimeconfig.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\bin\Debug\net6.0\5_CancellationToken.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\bin\Debug\net6.0\5_CancellationToken.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\5_CancellationToken.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\5_CancellationToken.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\5_CancellationToken.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\5_CancellationToken.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\5_CancellationToken.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\5_CancellationToken.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\refint\5_CancellationToken.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\5_CancellationToken.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\5_CancellationToken.genruntimeconfig.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\5_CancellationToken\obj\Debug\net6.0\ref\5_CancellationToken.dll

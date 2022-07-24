@@ -1,0 +1,12 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\bin\Debug\net6.0\LogServices.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\bin\Debug\net6.0\LogServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\bin\Debug\net6.0\LogServices.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\obj\Debug\net6.0\LogServices.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\obj\Debug\net6.0\LogServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\obj\Debug\net6.0\LogServices.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\obj\Debug\net6.0\LogServices.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\obj\Debug\net6.0\LogServices.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\obj\Debug\net6.0\LogServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\obj\Debug\net6.0\refint\LogServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\obj\Debug\net6.0\LogServices.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\LogServices\obj\Debug\net6.0\ref\LogServices.dll

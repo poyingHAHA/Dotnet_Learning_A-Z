@@ -1,0 +1,17 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\bin\Debug\net6.0\MailServices.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\bin\Debug\net6.0\MailServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\bin\Debug\net6.0\MailServices.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\bin\Debug\net6.0\ConfigServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\bin\Debug\net6.0\LogServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\bin\Debug\net6.0\ConfigServices.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\bin\Debug\net6.0\LogServices.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\MailServices.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\MailServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\MailServices.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\MailServices.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\MailServices.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\MailServices.csproj.CopyComplete
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\MailServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\refint\MailServices.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\MailServices.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_DI_Integration_Case\MailServices\obj\Debug\net6.0\ref\MailServices.dll

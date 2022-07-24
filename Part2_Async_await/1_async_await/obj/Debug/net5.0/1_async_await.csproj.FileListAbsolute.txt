@@ -1,0 +1,16 @@
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\bin\Debug\net5.0\1_async_await.exe
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\bin\Debug\net5.0\1_async_await.deps.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\bin\Debug\net5.0\1_async_await.runtimeconfig.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\bin\Debug\net5.0\1_async_await.runtimeconfig.dev.json
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\bin\Debug\net5.0\1_async_await.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\bin\Debug\net5.0\1_async_await.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\1_async_await.csproj.AssemblyReference.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\1_async_await.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\1_async_await.AssemblyInfoInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\1_async_await.AssemblyInfo.cs
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\1_async_await.csproj.CoreCompileInputs.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\1_async_await.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\refint\1_async_await.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\1_async_await.pdb
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\1_async_await.genruntimeconfig.cache
+E:\Dotnet_a-z\Dotnet_learning_A-Z\1_async_await\obj\Debug\net5.0\ref\1_async_await.dll
