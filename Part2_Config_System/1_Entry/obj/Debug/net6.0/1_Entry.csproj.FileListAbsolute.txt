@@ -23,3 +23,6 @@ E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\obj\Debug\net6.0\1
 E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\obj\Debug\net6.0\1_Entry.genruntimeconfig.cache
 E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\obj\Debug\net6.0\ref\1_Entry.dll
 E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
