@@ -27,3 +27,4 @@ E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\bin\Debug\net6.0\M
 E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll

@@ -11,7 +11,8 @@ namespace _1_Entry
 
             ConfigurationBuilder configBuilder = new ConfigurationBuilder();
             // configBuilder.AddJsonFile(@"E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\config.json", optional: true, reloadOnChange: true);
-            configBuilder.AddCommandLine(args);
+            // configBuilder.AddCommandLine(args);
+            configBuilder.AddEnvironmentVariables("test_");
             IConfigurationRoot configRoot = configBuilder.Build();
 
             // 將Config綁定到根節點
@@ -54,7 +55,7 @@ namespace _1_Entry
 
     class Proxy
     {
-        public string? Address { get; set; }
+        public string Address { get; set; }
         public int Port { get; set; } // 由Binder自動做類型轉換
         public int[] Ids { get; set; }
     }
