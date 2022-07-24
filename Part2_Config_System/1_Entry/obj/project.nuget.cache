@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZWG6jDglQSgxYRyEYGJOGsiOtU7gwy893EeCfNiH6jIBDsf+vAeCJPmiup0budPO9GFlq7Xt+QTC8MFYxqLbw==",
+  "dgSpecHash": "rTh4ZFprDyKRrvQzYWtDYsQkkhZaqzpkcHJsaEwYkYgJiceodNpD5sMJ7DIhwpdlF4VtaqcsnQzTErxLlyFEXw==",
   "success": true,
   "projectFilePath": "E:\\Dotnet_a-z\\Dotnet_learning_A-Z\\Part2_Config_System\\1_Entry\\1_Entry.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
     "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0\\microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
     "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0\\microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
     "C:\\Users\\88698\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",

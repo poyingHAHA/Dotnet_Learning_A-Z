@@ -7,18 +7,27 @@ namespace _1_Entry
         static void Main(string[] args)
         {
             ConfigurationBuilder configBuilder = new ConfigurationBuilder();
-            configBuilder.AddJsonFile(@".\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\config.json", optional: true, reloadOnChange: true);
+            configBuilder.AddJsonFile(@"E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\config.json", optional: true, reloadOnChange: true);
             IConfigurationRoot configRoot = configBuilder.Build();
-            string name = configRoot["name"];
-            System.Console.WriteLine($"name: {name}");
-            string address = configRoot.GetSection("proxy:address").Value;
-            System.Console.WriteLine($"address: {address}");
+
+            // Proxy proxy = configRoot.GetSection("proxy").Get<Proxy>();
+            // System.Console.WriteLine($"{proxy.Address}, {proxy.Port}");
+
+            Config config = configRoot.Get<Config>();
+            System.Console.WriteLine(config.Name);
         }
+    }
+
+    class Config
+    {
+        public string? Name { get; set; }
+        public int Age { get; set; }
+        public Proxy? Proxy { get; set; }
     }
 
     class Proxy
     {
-        public string Address { get; set; }
+        public string? Address { get; set; }
         public int Port { get; set; } // 由Binder自動做類型轉換
     }
 }
