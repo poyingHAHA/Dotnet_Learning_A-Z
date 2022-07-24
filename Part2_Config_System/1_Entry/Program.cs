@@ -10,7 +10,8 @@ namespace _1_Entry
             ServiceCollection services = new ServiceCollection();
 
             ConfigurationBuilder configBuilder = new ConfigurationBuilder();
-            configBuilder.AddJsonFile(@"E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\config.json", optional: true, reloadOnChange: true);
+            // configBuilder.AddJsonFile(@"E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\config.json", optional: true, reloadOnChange: true);
+            configBuilder.AddCommandLine(args);
             IConfigurationRoot configRoot = configBuilder.Build();
 
             // 將Config綁定到根節點
@@ -55,5 +56,6 @@ namespace _1_Entry
     {
         public string? Address { get; set; }
         public int Port { get; set; } // 由Binder自動做類型轉換
+        public int[] Ids { get; set; }
     }
 }

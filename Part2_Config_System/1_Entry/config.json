@@ -3,6 +3,7 @@
   "age": "58",
   "proxy": {
     "address": "test",
-    "port": "8080"
+    "port": "8080",
+    "Ids": [4,5,6]
   }
 }
