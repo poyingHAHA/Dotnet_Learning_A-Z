@@ -10,38 +10,19 @@ namespace _1_Entry
             ServiceCollection services = new ServiceCollection();
 
             ConfigurationBuilder configBuilder = new ConfigurationBuilder();
-            // configBuilder.AddJsonFile(@"E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\config.json", optional: true, reloadOnChange: true);
-            // configBuilder.AddCommandLine(args);
-            configBuilder.AddEnvironmentVariables("test_");
+            configBuilder.Add(new FxConfigSource() { Path = @"E:\Dotnet_a-z\Dotnet_learning_A-Z\Part2_Config_System\1_Entry\web.config" });
+
             IConfigurationRoot configRoot = configBuilder.Build();
 
             // 將Config綁定到根節點
-            services.AddOptions()
-                .Configure<Config>(e => configRoot.Bind(e))
-                .Configure<Proxy>(e => configRoot.GetSection("proxy").Bind(e));
+            services.AddOptions().Configure<WebConfigDto>(e => configRoot.Bind(e));
 
-            services.AddScoped<TestController>();
-            services.AddScoped<TestController2>();
+            services.AddScoped<TestWebConfig>();
 
-            using(var sp = services.BuildServiceProvider())
+            using (var sp = services.BuildServiceProvider())
             {
-                while(true)
-                {
-                    // 手動開啟新scope來體驗IOptionsSnapshot在不同scope下的對應於config.json的改變
-                    using (var scope = sp.CreateScope())
-                    {
-                        var c = scope.ServiceProvider.GetRequiredService<TestController>();
-                        c.Test();
-                        System.Console.WriteLine("改一下age");
-                        Console.ReadKey();
-                        c.Test();
-                        var c2 = scope.ServiceProvider.GetRequiredService<TestController2>();
-                        c2.Test();
-                    }
-
-                    System.Console.WriteLine("Click To Continue");
-                    Console.ReadKey();
-                }
+                var c = sp.GetRequiredService<TestWebConfig>();
+                c.Test();
             }
         }
     }
